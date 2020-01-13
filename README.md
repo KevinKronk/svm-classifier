@@ -1,4 +1,6 @@
 # svm-classifier
+Creating Support Vector Machines using pipelines in Scikit-Learn. Code based on Hands-On Machine Learning by Geron Aurelien.
+Includes a polynomial feature SVM classifier, poly kernel SVM classifier, and RBF kernel SVM classifier.
 
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/41022783/72296501-b5351200-3627-11ea-8167-8322448394e4.png)
